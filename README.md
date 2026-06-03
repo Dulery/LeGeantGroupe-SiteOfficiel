@@ -6,6 +6,16 @@ Site web officiel de la communauté **Le Géant Groupe**, un groupe WhatsApp fra
 
 ---
 
+## Aperçu
+
+| Accueil | Événements |
+|---------|------------|
+| ![Accueil](imgReadme/Capture%20d'%C3%A9cran%202026-06-03%20110903.png) | ![Événements](imgReadme/Capture%20d'%C3%A9cran%202026-06-03%20110953.png) |
+
+![Archives](imgReadme/Capture%20d'%C3%A9cran%202026-06-03%20110930.png)
+
+---
+
 ## Sommaire
 
 - [Objectif du site](#objectif-du-site)
