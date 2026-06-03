@@ -2,7 +2,7 @@
 
 🌐 **[legéantgroupe.fr](https://www.legéantgroupe.fr)**
 
-Site web officiel de la communauté **Le Géant Groupe**, un groupe WhatsApp francophone actif depuis 2017. Le site centralise l'histoire du groupe, ses événements, ses membres, ses actualités, et propose des fonctionnalités interactives comme un salon de chats animé.
+Site web officiel de la communauté **Le Géant Groupe**, un groupe WhatsApp francophone actif depuis 2017. Le site centralise l'histoire du groupe, ses événements, ses membres, ses actualités, et propose des fonctionnalités interactives.
 
 ---
 
