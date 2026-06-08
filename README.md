@@ -61,4 +61,4 @@ Présente les responsables (fondateur, admins, modérateurs) et les membres nota
 Page d'actualités générales : articles de presse en français filtrables par catégorie (Politique, Technologie, Sport, Business, Science) et une recette du jour.
 
 ### Meow — Salon des Chats 🐱
-Mini-jeu interactif réservé aux membres. Avec un code d'accès nominatif reçu via WhatsApp, chaque membre peut ajouter la photo de son chat. Tous les chats apparaissent alors dans un salon 2D animé où ils rebondissent sur un canvas HTML5.
+Mini-jeu interactif réservé aux membres. Avec un code d'accès nominatif reçu via WhatsApp, chaque membre peut ajouter la photo de son chat. Tous les chats apparaissent alors dans un salon 2D.
